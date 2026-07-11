@@ -194,4 +194,4 @@ Cette etape necessite une connexion internet.
  9. LICENCE / UTILISATION
 --------------------------------------------------------------------
 
-A completer selon ce que tu souhaites (MIT, usage libre, etc.).
+Ce script est open source et distribué sous licence MIT. Pour plus de détails, consultez le fichier LICENSE .
